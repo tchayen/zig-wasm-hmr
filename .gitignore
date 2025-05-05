@@ -1,0 +1,3 @@
+/web/bin
+/node_modules
+/.zig-cache

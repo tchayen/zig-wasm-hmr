@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "main": "web/index.html",
+  "scripts": {
+    "vite": "vite",
+    "wasm": "zig build install wasm --prefix web"
+  },
+  "dependencies": {
+    "vite": "^6.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3"
+  }
+}
