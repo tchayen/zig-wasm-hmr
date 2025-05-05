@@ -4,6 +4,8 @@
 
 Example setup of HMR (hot-module-reloading) of Zig WASM lib with Vite.
 
+Tested with Zig 0.14. If you don't have Zig installed see [instructions](https://ziglang.org/learn/getting-started) in official docs.
+
 ## Install
 
 ```bash
